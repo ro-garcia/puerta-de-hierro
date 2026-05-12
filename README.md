@@ -1,3 +1,3 @@
-# Comercial El Buen Precio S.A. - Frontend demo
+# Comercial Puerta de Hierro Precio S.A. - Frontend demo
 
 
