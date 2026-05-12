@@ -8,8 +8,8 @@ export const StoreNavbar = () => `
     <a href="/" data-route class="brand-mark" aria-label="Inicio">
       <span class="brand-symbol">EBP</span>
       <span>
-        <strong>El Buen Precio</strong>
-        <small>Comercial El Buen Precio S.A.</small>
+        <strong>Puerta de Hierro</strong>
+        <small>Comercial Puerta de Hierro S.A.</small>
       </span>
     </a>
     <nav class="store-nav__links" aria-label="Navegación principal">
@@ -74,8 +74,8 @@ export const Footer = () => `
   <footer class="site-footer">
     <div class="footer-grid">
       <div>
-        <h2>EL BUEN PRECIO</h2>
-        <p>Comercial El Buen Precio S.A.</p>
+        <h2>Puerta de Hierro</h2>
+        <p>Comercial Puerta de Hierro S.A.</p>
         <span>Tu tienda de confianza en productos electrónicos, con calidad, garantía y los mejores precios.</span>
         <div class="social-row" aria-label="Redes sociales">
           <span>f</span><span>ig</span><span>yt</span><span>in</span>
@@ -102,7 +102,7 @@ export const Footer = () => `
         <p>+502 1234-5678</p>
       </div>
     </div>
-    <div class="footer-bottom">© 2026 Comercial El Buen Precio S.A. — Todos los derechos reservados</div>
+    <div class="footer-bottom">© 2026 Comercial Puerta de Hierro S.A. — Todos los derechos reservados</div>
   </footer>
 `;
 
@@ -233,7 +233,7 @@ export const AdminSidebar = (menu) => `
       <span class="brand-symbol">EBP</span>
       <div>
         <strong>Admin EBP</strong>
-        <small>Comercial El Buen Precio</small>
+        <small>Comercial Puerta de Hierro S.A.</small>
       </div>
     </div>
     <nav aria-label="Menú administrativo">
